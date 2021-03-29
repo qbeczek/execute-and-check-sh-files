@@ -27,4 +27,8 @@ else
 	echo "Now you can execute your script"
 fi
 
+### #execute sript 
+echo 
+echo "$1"
+sh ./$1
 
